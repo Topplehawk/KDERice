@@ -1,0 +1,34 @@
+1   # KDERice
+  1 Latte:
+  2      install latte dock
+  3      Sudo apt install latte-dock -y
+  4      set to plasma dock
+  5      set behqavior how you like
+  6  
+  7  Kvantum:
+  8  
+  9      install kvantum 
+ 10      heres the install instructions for that
+ 11      https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md
+ 12      Download the Sweet files from The kde store and upload into kvantum
+ 13      make sure to use sweet, it doesnt work look the same if you dont
+ 14      https://store.kde.org/p/1294013/
+ 15  
+ 16  Settings:
+ 17  
+ 18      global theme is breeze dark\
+ 19      application style is kvantum dark
+ 20      plasma style is soft blue and red
+ 21      colors is iridescent lightly 3
+ 22      windows decorations is Breeze
+ 23      fonts is default
+ 24      icons is Beyond
+ 25      Cursers is breeze
+ 26      splash menue is Plasma Blue
+ 27      Login screen is Noir-SDDM-5
+ 28  
+ 29  Docks:
+ 30      install modern clock in get widgets
+ 31      install panon
+ 32          https://github.com/rbn42/panon
+ 33      make sure to install all dependacies listed in the above repo but install the panon-fixed version in the get widgets menu
