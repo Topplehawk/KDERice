@@ -33,3 +33,4 @@
  33      make sure to install all dependacies listed in the above repo but install the panon-fixed version in the get widgets menu
  34  To install latte and kvantum run the .install.sh file with bash .install.sh
  35  This will update your device
+ 36  DO NNOT RUN THIS SCRIPT IF YOU ALREADY HAVE KVANTUM INSTALLED
