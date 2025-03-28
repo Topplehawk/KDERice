@@ -1,4 +1,3 @@
-1   # KDERice
   1 Latte:
   2      install latte dock
   3      Sudo apt install latte-dock -y
