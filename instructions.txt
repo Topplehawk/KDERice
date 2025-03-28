@@ -31,3 +31,4 @@
  31      install panon
  32          https://github.com/rbn42/panon
  33      make sure to install all dependacies listed in the above repo but install the panon-fixed version in the get widgets menu
+ 34 to install latte and kvantum run the .install.sh file with bash .install.sh
