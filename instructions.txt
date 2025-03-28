@@ -4,15 +4,15 @@
   3      Sudo apt install latte-dock -y
   4      set to plasma dock
   5      set behqavior how you like
-  6  
+  6  :
   7  Kvantum:
   8  
   9      install kvantum 
  10      heres the install instructions for that
- 11      https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md
+ 11		      https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md
  12      Download the Sweet files from The kde store and upload into kvantum
  13      make sure to use sweet, it doesnt work look the same if you dont
- 14      https://store.kde.org/p/1294013/
+ 14     	 https://store.kde.org/p/1294013/
  15  
  16  Settings:
  17  
